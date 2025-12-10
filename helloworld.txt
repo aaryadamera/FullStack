@@ -1,0 +1,2 @@
+Hi, Hello. This is FullStack Application
+I've created a GIT Repository
